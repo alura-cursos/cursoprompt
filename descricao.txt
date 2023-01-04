@@ -1,0 +1,2 @@
+JavaScript é uma linguagem de programação leve, mais conhecida como a linguagem de script para páginas Web,
+mas usada também em vários outros ambientes sem browser, tais como node.js.
